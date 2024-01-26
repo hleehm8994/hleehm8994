@@ -1,7 +1,8 @@
-
+Hello
 ======================
 
-Hi my name is Helen. I am a recent Graduate in Business Analytics
+My name is Helen. I am a recent Graduate in Business Analytics. I have over 6 years of experience in financial service industry, specializing in Operational Risk Management. Proven experience of analyzing and reporting risk event through risk assessment to prevent and mitigate financial losses in the banks.
+
 -------------------------------------
 
 Let's talk about Data Analytics, Python, SQL and anything else
