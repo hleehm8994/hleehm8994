@@ -1,4 +1,4 @@
-Hi 👋 My name is Helen
+Hi my name is Helen
 ======================
 
 Recent Graduate in Business Analytics
