@@ -1,7 +1,7 @@
-Hi my name is Helen
+Hi my name is Helen. I am a recent Graduate in Business Analytics
 ======================
 
-I am a recent Graduate in Business Analytics
+
 -------------------------------------
 
 Let's talk about Data Analytics, Python, SQL and anything else
