@@ -1,7 +1,9 @@
 Hello
 ======================
 
-My name is Helen. I am a recent Graduate in Business Analytics. I have over 6 years of experience in financial service industry, specializing in Operational Risk Management. Proven experience of analyzing and reporting risk event through risk assessment to prevent and mitigate financial losses in the banks.
+My name is Helen. I am a recent Graduate in Business Analytics. I have over 6 years of experience in financial service industry, specializing in Operational Risk Management. I have proven experience of analyzing and reporting risk event through risk assessment to prevent and mitigate financial losses in the banks. 
+
+I am passionate about executing analytics projects and engaging in research collaborations with tangible outcomes 
 
 -------------------------------------
 
