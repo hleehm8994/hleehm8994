@@ -2,7 +2,7 @@ Hello my name is Helen ;)
 ======================
 <a href="https://u8views.com/github/hleehm8994"><img src="https://u8views.com/api/v1/github/profiles/94553230/views/day-week-month-total-count.svg"></a>
 
-My name is Helen. I am a recent Graduate in Business Analytics. I have over 6 years of experience in financial service industry, specializing in Operational Risk Management. I have proven experience of analyzing and reporting risk event through risk assessment to prevent and mitigate financial losses in the banks. 
+I am a recent Graduate in Business Analytics. I have over 6 years of experience in financial service industry, specializing in Operational Risk Management. I have proven experience of analyzing and reporting risk event through risk assessment to prevent and mitigate financial losses in the banks. 
 
 I am passionate about executing analytics projects and engaging in research collaborations with tangible outcomes 
 
