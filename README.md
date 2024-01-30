@@ -10,9 +10,6 @@ I am passionate about executing analytics projects and engaging in research coll
 
 Let's talk about Data Analytics, Python, SQL and anything else
 
-* 🌍  I'm based in Toronto, Ontario
-* ✉️  You can contact me at [henlee8989@gmail.com](mailto:henlee8989@gmail.com)
-
 ### Skills
 
 <p align="left">
